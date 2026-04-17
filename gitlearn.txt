@@ -1,1 +1,4 @@
 all about git learning 
+-command 
+-how to apply
+-become a succfull devloper 
