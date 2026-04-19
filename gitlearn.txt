@@ -2,6 +2,7 @@ all about git learning
 So every rep that I do gets me closer to accomplishing the goal to make this goal – this vision – into reality.
 If we don’t take control of our environment, it takes control of us.
 i ma local44 branch;
+i am localdemo;
 -command 
 -how to apply
 -become a succfull devloper 
